@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = IglobalStores::VERSION
   spec.authors       = ["Daniel LaBare"]
   spec.email         = ["dlabare@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{ActiveMerchant extension for iGlobal Stores}
+  spec.description   = %q{ActiveMerchant extension for iGlobal Stores}
   spec.homepage      = ""
   spec.license       = "MIT"
 
